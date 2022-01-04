@@ -19,7 +19,7 @@ Greetings and thank you for visiting my GitHub page. This website will take you 
 
 👩🏻‍💻 &nbsp; Graduate student with a strong interest in experimenting with data, discovering new trends, and deriving meaning from it. \
 💻 &nbsp;I'm currently seeking for an internship or an entry-level career in the world of data science..\
-🎓 &nbsp;I hold a bachelor's degree in mechanical engineering and also a master's degree in international business.\
+🎓 &nbsp;I hold a master's degree in international business and a bachelor's degree in mechanical engineering.\
 :chart_with_upwards_trend: &nbsp;I'm well on my path to understanding and learning more about various coding languages and visualization applications.xbgy\
 🏀 &nbsp;In my spare time, I enjoy playing basketball, traveling, and learning new skills.\
 📧 &nbsp;You can email me at rsneha.official9345@gmail.com.\
