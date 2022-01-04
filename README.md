@@ -36,7 +36,9 @@
 
 ---
 ### Certificates
-<img src="Images/Certificate.jpg?raw=true"></br>
+<img src="Images/Certificate2.jpg?raw=true"
+     width="600" 
+     height="450"/></br>
 - [See certificates on Github](https://github.com/Sneha0697/Certificates)
 
 ---
