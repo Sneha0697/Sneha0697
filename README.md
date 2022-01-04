@@ -1,11 +1,11 @@
 ### 👋🏼 Hello! 
 
 <img src="Images/Analyst.jpg?raw=true"
-     width="400" 
-     height="300"/>
- 
- <img src="https://github-readme-stats.vercel.app/api?username=Sneha0697&&show_icons=true&title_color=008FCE&icon_color=008FCE&text_color=14efe4&bg_color=091f36">
+     width="200" 
+     height="100"/> <img src="https://github-readme-stats.vercel.app/api?username=Sneha0697&&show_icons=true&title_color=008FCE&icon_color=008FCE&text_color=14efe4&bg_color=091f36">
   
+ 
+ 
 
 ![version :15.12.2021](https://img.shields.io/badge/version-15.12.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Sneha0697&color=red)&nbsp;
