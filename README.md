@@ -1,6 +1,6 @@
 <img src="Images/Analyst.jpg?raw=true"
      width="400" 
-     height="500"/>
+     height="300"/>
 
 
 ### :raised_hand: Hello there !
