@@ -1,4 +1,6 @@
-<img src="Images/Analyst.jpg?raw=true"/>
+<img src="Images/Analyst.jpg?raw=true"
+     width="400" 
+     height="500"/>
 
 
 ### :raised_hand: Hello there !
