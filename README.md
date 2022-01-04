@@ -1,4 +1,5 @@
-### 👋🏼 Hello! 
+### 👋🏼 Hello!
+Greetings and thank you for visiting my GitHub page. This website will take you through the numerous projects I've worked on both solo and in groups for varied objectives such as academic assignments and personal interests.
 
 <img src="Images/Analyst.jpg?raw=true"
      width="200" 
