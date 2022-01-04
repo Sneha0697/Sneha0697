@@ -2,7 +2,7 @@
 
 <img src="Images/Analyst.jpg?raw=true"
      width="200" 
-     height="198"/> <img src="https://github-readme-stats.vercel.app/api?username=Sneha0697&&show_icons=true&title_color=008FCE&icon_color=008FCE&text_color=14efe4&bg_color=091f36">
+     height="194"/> <img src="https://github-readme-stats.vercel.app/api?username=Sneha0697&&show_icons=true&title_color=008FCE&icon_color=008FCE&text_color=14efe4&bg_color=091f36">
   
  
  
