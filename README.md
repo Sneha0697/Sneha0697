@@ -1,9 +1,9 @@
 ### 👋🏼 Hello!
-Greetings and thank you for visiting my GitHub page. This website will take you through the numerous projects I've worked on both solo and in groups for varied objectives such as academic assignments and personal interests.
+<i>Greetings and thank you for visiting my GitHub page. This website will take you through the numerous projects I've worked on, both solo and in groups, for varied objectives such as academic assignments and personal interests.</i>
 
 <img src="Images/Analyst.jpg?raw=true"
-     width="200" 
-     height="194"/> <img src="https://github-readme-stats.vercel.app/api?username=Sneha0697&&show_icons=true&title_color=008FCE&icon_color=008FCE&text_color=14efe4&bg_color=091f36">
+     width="400" 
+     height="200"/> 
   
  
  
@@ -17,7 +17,7 @@ Greetings and thank you for visiting my GitHub page. This website will take you 
 
 ### :point_right: &nbsp;About Me
 
-👩🏻‍💻 &nbsp; Graduate student with a strong interest in experimenting with data, discovering new trends, and deriving meaning from it. \
+👩🏻‍💻 &nbsp;Graduate student with a strong interest in experimenting with data, discovering new trends, and deriving meaning from it. \
 💻 &nbsp;I'm currently seeking for an internship or an entry-level career in the world of data science..\
 🎓 &nbsp;I hold a master's degree in international business and a bachelor's degree in mechanical engineering.\
 :chart_with_upwards_trend: &nbsp;I'm well on my path to understanding and learning more about various coding languages and visualization applications.xbgy\
@@ -46,7 +46,10 @@ Greetings and thank you for visiting my GitHub page. This website will take you 
 - Click [here](https://github.com/Sneha0697/Certificates) to view all the certificates.
 
 ---
-### :coffee: &nbsp; Let's have a coffee chat:
+<img src="https://github-readme-stats.vercel.app/api?username=Sneha0697&&show_icons=true&title_color=008FCE&icon_color=008FCE&text_color=14efe4&bg_color=091f36">
+
+---
+### :coffee: &nbsp; Let's Connect:
 
 <a href="https://www.linkedin.com/in/sneharamu//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:rsneha.official9345@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
