@@ -23,7 +23,7 @@ Greetings and thank you for visiting my GitHub page. This website will take you 
 :chart_with_upwards_trend: &nbsp;I'm well on my path to understanding and learning more about various coding languages and visualization applications.xbgy\
 🏀 &nbsp;In my spare time, I enjoy playing basketball, traveling, and learning new skills.\
 📧 &nbsp;You can email me at rsneha.official9345@gmail.com.\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/drive/u/1/folders/1WbpXcYSx2HbrnGwOYvw76wN7nMBohWTv)  for more details about me.
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1Rh92C_8ph2CpT4Z41gx9N5ZTBdPiumVv/view?usp=sharing)  for more details about me.
 
 
 ---
