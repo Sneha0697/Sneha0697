@@ -39,7 +39,7 @@
 <img src="Images/Certificate2.jpg?raw=true"
      width="600" 
      height="450"/></br>
-- [See certificates on Github](https://github.com/Sneha0697/Certificates)
+- Click [here](https://github.com/Sneha0697/Certificates) to view all the certificates.
 
 ---
 ### :coffee: &nbsp; Let's have a coffee chat:
