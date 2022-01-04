@@ -17,7 +17,7 @@
 💻 &nbsp;I'm currently seeking for an internship or an entry-level career in the world of data science..\
 🎓 &nbsp;I hold a bachelor's degree in mechanical engineering and also a master's degree in international business.\
 :chart_with_upwards_trend: &nbsp;I'm well on my path to understanding and learning more about various coding languages and visualization applications.xbgy\
-🏀: &nbsp;In my spare time, I enjoy playing basketball, traveling, and learning new skills.\
+🏀 &nbsp;In my spare time, I enjoy playing basketball, traveling, and learning new skills.\
 📧 &nbsp;You can email me at rsneha.official9345@gmail.com.\
 📄 &nbsp;You can check my [Resume](https://github.com/Sneha0697/Sneha0697/blob/c197978c74e30e475e7127a76a876bf94f15f646/RESUME.pdf)  for more details about me.\
 
