@@ -17,7 +17,7 @@
 
 ### :point_right: &nbsp;About Me
 
-***👩🏻‍💻 &nbsp;Graduate student with a strong interest in experimenting with data, discovering new trends, and deriving meaning from it. \***
+👩🏻‍💻 &nbsp;Graduate student with a strong interest in experimenting with data, discovering new trends, and deriving meaning from it. \
 💻 &nbsp;I'm currently seeking for an internship or an entry-level career in the world of data science..\
 🎓 &nbsp;I hold a master's degree in international business and a bachelor's degree in mechanical engineering.\
 :chart_with_upwards_trend: &nbsp;I'm well on my path to understanding and learning more about various coding languages and visualization applications.xbgy\
