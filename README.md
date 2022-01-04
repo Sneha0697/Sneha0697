@@ -19,7 +19,7 @@
 :chart_with_upwards_trend: &nbsp;I'm well on my path to understanding and learning more about various coding languages and visualization applications.xbgy\
 🏀: &nbsp;In my spare time, I enjoy playing basketball, traveling, and learning new skills.\
 ✉️ &nbsp;You can email me at rsneha.official9345@gmail.com.\
-📄 &nbsp;You can check my [Resume]("C:\Users\Sneha R\OneDrive\Desktop\RESUME.pdf") for more details about me.
+📄 &nbsp;You can check my [Resume]<a href="C:\Users\Sneha R\OneDrive\Desktop\RESUME.pdf"> for more details about me.
 
 ---
 ### 🛠 &nbsp;Tech Stack
