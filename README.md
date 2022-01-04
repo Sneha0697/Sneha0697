@@ -36,6 +36,6 @@
 ---
 ### :coffee: &nbsp; Let's have a coffee chat:
 
-<a href="https://www.linkedin.com/in/sneha-ramu//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/sneha_ramu//"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:rsneha.official9345@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/sneha_ramu/"><img src="https://img.shields.io/badge/-@Sneha0697_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/sneha_ramu/"><img src="https://img.shields.io/badge/-@Sneha_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
