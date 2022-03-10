@@ -41,7 +41,7 @@
 ---
 ### Certificates
 <img src="Images/Certificate2.jpg?raw=true"
-     width="4000" 
+     width="300" 
      height="400"/></br>
 - Click [here](https://github.com/Sneha0697/Certificates) to view all the certificates.
 
